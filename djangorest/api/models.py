@@ -1,7 +1,15 @@
+from rest_framework import serializers
 from django.db import models
+
 
 # Create your models here.
 
+
+class BucketSerializer(serializers.ModelSerializer):
+    """
+    Serializer to map the Model instance into JSON format
+    """
+    
 
 class Bucketlist(models.Model):
     """
