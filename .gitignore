@@ -104,4 +104,4 @@ venv.bak/
 .mypy_cache/
 
 app_info.txt
-djangorest/djangorest/settings.py
+/djangorest/djangorest/settings.py

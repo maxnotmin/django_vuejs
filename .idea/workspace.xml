@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ed3a3485-7ac4-43c9-afde-2b335e28ff6b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/djangorest/api/urls.py" afterPath="$PROJECT_DIR$/djangorest/api/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/djangorest/djangorest/settings.py" afterPath="$PROJECT_DIR$/djangorest/djangorest/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/djangorest/djangorest/urls.py" afterPath="$PROJECT_DIR$/djangorest/djangorest/urls.py" />
     </list>
     <ignored path="django_vuejs.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="714">
-              <caret line="106" column="33" selection-start-line="106" selection-start-column="33" selection-end-line="106" selection-end-column="33" />
+              <caret line="106" column="34" selection-start-line="106" selection-start-column="34" selection-end-line="106" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -633,7 +630,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
-          <caret line="106" column="33" selection-start-line="106" selection-start-column="33" selection-end-line="106" selection-end-column="33" />
+          <caret line="106" column="34" selection-start-line="106" selection-start-column="34" selection-end-line="106" selection-end-column="34" />
           <folding />
         </state>
       </provider>
